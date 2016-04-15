@@ -1,5 +1,5 @@
 <?php
-require('inc/globals.php'); // Require in all pages
+require('inc/globals.php'); // Require in all pages gitttt
 ?>
 
 	<?php include 'inc/init.php'; ?>
@@ -33,7 +33,7 @@ require('inc/globals.php'); // Require in all pages
 					</div>
 					<div class="col-lg-7 col-sm-7">
 						<div class="tm_titulo">
-							<p>TELEFONIA MÓVEL</p>
+							<p>TELEFONIA MÓVEL teste 2</p>
 						</div>
 						<div class="tm_text">
 							<p>Para sua empresa o serviço de telefonia é ideal para fechar negócios, transmitir dados e manter a equipe conectada.</p>
